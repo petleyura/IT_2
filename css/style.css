@@ -150,14 +150,12 @@ transition: all 0.3s ease 0s;
 	margin-bottom: 25px;
 }
 .box {
-	background-image: url('../img/background/it-chapter-two-poster.jpg');
+	background-image: url('../img/background/it.jpg');
 	background-color: #dee9eb;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-attachment: fixed;
-	
-	
 }
 
 .box__content1 {
@@ -208,7 +206,7 @@ transition: all 0.3s ease 0s;
 .img {
 	width: 40%;
 	display: inline-block;
-	background-image: url('../img/eye.gif');
+	background-image: url('../img/background/ite.gif');
 	background-repeat: no-repeat;
 	background-position: 9% 40%;
 	background-attachment: fixed;
